@@ -38,7 +38,7 @@ These are personal projects, so I am not always quick to respond and may not get
 
 ## Getting in touch
 
-Not everything fits an issue or a discussion. If you are unsure about anything, or your question is more personal, email contact@isaacadjei.me or use [my contact page](https://isaacadjei.me/contact). I will always try to help where I can.
+Not everything fits an issue or a discussion. If something is unclear or more personal, email contact@isaacadjei.me or use [my contact page](https://isaacadjei.me/contact). I will always try to help where I can.
 
 ## Where this applies
 
