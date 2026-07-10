@@ -14,7 +14,10 @@ This is my shared contributing guide, kept in one place so I am not repeating my
 
 ## Pull requests
 
-For anything beyond a quick fix, please open an issue first. On a personal project I may simply prefer to keep it as it is; I would rather say so before you spend your time. Once we agree it is worth doing:
+> [!TIP]
+> For anything beyond a quick fix, open an issue first. On a personal project I may simply prefer to keep it as it is; I would rather save you the wasted effort.
+
+Once we agree a change is worth doing:
 
 - One change is one branch is one pull request. I keep unrelated work apart.
 - Keep it small and focused. A tight pull request is read and merged far quicker than one that does five things at once.
@@ -39,7 +42,7 @@ Not everything fits an issue or a discussion. If you are unsure about anything, 
 
 ## Where this applies
 
-This is the shared guide for most of [my projects](https://isaacadjei.me). A repository with its own contributing notes takes precedence over this one.
+This is the shared guide for most of [my projects](https://isaacadjei.me/projects). A repository with its own contributing notes takes precedence over this one.
 
 Thank you again for helping make my projects better.
 
