@@ -30,7 +30,7 @@ You are welcome to use AI tools while you work. Two ground rules.
 
 **Write in your own voice.** When you open an issue, leave a comment or describe a pull request, use your own words. I do not mind imperfect grammar; I mind not being able to tell what you actually mean. Pasted AI text tends to be long, vague and sure of itself while being wrong, which makes it much harder to help you.
 
-**Understand what you submit.** Use AI to write code or to find your way around, but read it and make sense of it before it becomes a pull request. Own it as your work. A change that is clearly generated with no understanding behind it will probably be closed without a long discussion.
+**Understand what you submit.** Use AI to write code or to find your way around, but read it and make sense of it before it becomes a pull request. Own it as your work. A change that clearly has no understanding behind it will probably be closed without a long discussion.
 
 ## Patience appreciated
 
