@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Changed
+
+- The guide matches the web version: a What this covers section, separate software bug and hardware problem routes, writing and design contributions and the website in scope.
+
 ### Added
 
 - CODEOWNERS and SUPPORT.md.

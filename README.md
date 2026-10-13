@@ -2,11 +2,25 @@
 
 Thank you for taking the time to look at this. Whether you are reporting a bug, suggesting an idea or just passing through, I appreciate it.
 
-This is my shared contributing guide, kept in one place so I am not repeating myself across repositories. My projects span software, hardware, a mix of the two, writing and courses. Most are personal projects I build for myself and am not actively taking contributions on; a few are more public and genuinely welcome them. This guide is the common ground for all of them. Where a repository works differently, it says so in its own notes; those take precedence over anything here.
+This is my shared contributing guide, kept in one place so I am not repeating myself across repositories. My work spans software, hardware, a mix of the two, writing, courses and [my website](https://isaacadjei.me). Most are personal projects I build for myself and am not actively taking contributions on; a few are more public and genuinely welcome them. This guide is the common ground for all of them. Where a repository works differently, it says so in its own notes; those take precedence over anything here.
+
+## What this covers
+
+The same guide applies across everything I build, so the way in is consistent wherever you land:
+
+- **Software and hardware.** Web apps and tools, plus embedded firmware, PCBs and electronics. Many projects are a mix of the two.
+- **Writing and courses.** Notes, guides and course material, where clarity and accuracy matter as much as code.
+- **Images and design.** Diagrams, screenshots, schematics and other assets that make a project easier to follow.
+- **My website.** Anything you spot on [isaacadjei.me](https://isaacadjei.me) itself, from a broken link to a typo.
+
+You can browse the range on my [projects page](https://isaacadjei.me/projects) or across my repositories on [GitHub](https://github.com/zaccesss).
 
 ## Ways to help
 
-- **Report a bug.** Open an issue on the repository and describe it plainly: what you did, what you expected and what happened instead. A small, clear example helps more than anything, even a link or a screenshot. If the project involves hardware, tell me your setup too: the board or parts, how it is wired and the versions or environment. A photo often says more than a paragraph. This is genuinely the most useful thing you can do, even if I do not get to it straight away.
+- **Report a software bug.** Open an issue on the repository and describe it plainly: what you did, what you expected and what happened instead. A small, clear example helps more than anything, even a link or a screenshot. For something on my website, tell me the page and your browser too. This is genuinely the most useful thing you can do, even if I do not get to it straight away.
+- **Flag a hardware problem.** If the project involves hardware, tell me your setup: the board or parts, how it is wired, the measurements you took and the versions or environment. A photo of the build often says more than a paragraph, so please include one where you can.
+- **Improve the writing or a course.** Notes, guides and lessons benefit from a second pair of eyes. Point out anything unclear, wrong or out of date. Suggesting an example that would explain it better helps too.
+- **Design, images and media.** A clearer diagram, a better screenshot, a tidier schematic or a fixed asset are all welcome. Tell me what it replaces and why it is better.
 - **Suggest an idea or an improvement.** Open an issue and explain the problem you are trying to solve, not only the solution you have in mind. I am more likely to act on the why than the what.
 - **Fix a typo or small wording slip.** These are always welcome. If it is trivial, feel free to open a pull request directly and skip the issue.
 - **Ask a question.** Use the repository's Discussions if it has them. Otherwise get in touch, see below.
@@ -30,7 +44,7 @@ You are welcome to use AI tools while you work. Two ground rules.
 
 **Write in your own voice.** When you open an issue, leave a comment or describe a pull request, use your own words. I do not mind imperfect grammar; I mind not being able to tell what you actually mean. Pasted AI text tends to be long, vague and sure of itself while being wrong, which makes it much harder to help you.
 
-**Understand what you submit.** Use AI to write code or to find your way around, but read it and make sense of it before it becomes a pull request. Own it as your work. A change that clearly has no understanding behind it will probably be closed without a long discussion.
+**Understand what you submit.** Use AI to write code or to find your way around, but read it and make sense of it before it becomes a pull request. Own it as your work. A change that is clearly generated with no understanding behind it will probably be closed without a long discussion.
 
 ## Patience appreciated
 
@@ -42,7 +56,7 @@ Not everything fits an issue or a discussion. If something is unclear or more pe
 
 ## Where this applies
 
-This is the shared guide for most of [my projects](https://isaacadjei.me/projects). A repository with its own contributing notes takes precedence over this one.
+This is the shared guide across [my repositories](https://github.com/zaccesss) and most of [my projects](https://isaacadjei.me/projects), kept in this repository. A repository with its own contributing notes takes precedence over this one.
 
 Thank you again for helping make my projects better.
 
