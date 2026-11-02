@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
+- Community files follow the [AI policy](https://github.com/zaccesss/ai-policy): pull requests declare AI use and issue forms ask whether AI helped.
+- The Using AI section summarises the AI policy, English is named as the working language and the pull request guidance covers code comments.
 - The guide matches the web version: a What this covers section, separate software bug and hardware problem routes, writing and design contributions and the website in scope.
 
 ### Added

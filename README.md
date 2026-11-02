@@ -24,7 +24,8 @@ You can browse the range on my [projects page](https://isaacadjei.me/projects) o
 - **Suggest an idea or an improvement.** Open an issue and explain the problem you are trying to solve, not only the solution you have in mind. I am more likely to act on the why than the what.
 - **Fix a typo or small wording slip.** These are always welcome. If it is trivial, feel free to open a pull request directly and skip the issue.
 - **Ask a question.** Use the repository's Discussions if it has them. Otherwise get in touch, see below.
-- **Report a security issue.** Please do not open a public issue for this. Follow the repository's own security policy if it has one, otherwise see my [security policy](https://isaacadjei.me/security-policy).
+- **Write in English where you can.** English is the working language for issues, pull requests and comments. Write in your own language and translate it if that is easier. Imperfect English is fine.
+- **Report a security issue.** Please do not open a public issue for this. Follow the repository's own security policy if it has one, otherwise see my [security policy](https://isaacadjei.me/security-policy) or email security@isaacadjei.me.
 
 ## Pull requests
 
@@ -36,15 +37,16 @@ Once we agree a change is worth doing:
 - One change is one branch is one pull request. I keep unrelated work apart.
 - Keep it small and focused. A tight pull request is read and merged far quicker than one that does five things at once.
 - Link the issue it closes with `Closes #123`.
+- Code comments explain why, not what: a hidden constraint or a workaround, never a restatement of the line.
 - Conventional commit prefixes in the present tense (a repository may override these): `feat`, `fix`, `chore`, `ci`, `docs`.
 
 ## Using AI
 
-You are welcome to use AI tools while you work. Two ground rules.
+You are welcome to use AI tools while you work, within my [AI policy](https://github.com/zaccesss/ai-policy) (also [on my site](https://isaacadjei.me/ai-policy)). The short version:
 
-**Write in your own voice.** When you open an issue, leave a comment or describe a pull request, use your own words. I do not mind imperfect grammar; I mind not being able to tell what you actually mean. Pasted AI text tends to be long, vague and sure of itself while being wrong, which makes it much harder to help you.
-
-**Understand what you submit.** Use AI to write code or to find your way around, but read it and make sense of it before it becomes a pull request. Own it as your work. A change that is clearly generated with no understanding behind it will probably be closed without a long discussion.
+- **Every pull request must say how AI was used, even when the answer is None.** The template asks for None, Assisted or Generated.
+- **Write in your own voice.** Issue and pull request titles, descriptions, comments and reviews are yours. I do not mind imperfect grammar; I mind not being able to tell what you actually mean.
+- **Understand and test what you submit.** Read AI output and make sense of it before it becomes a pull request. A change that is clearly generated with no understanding or testing behind it will be closed with a short note.
 
 ## Patience appreciated
 
