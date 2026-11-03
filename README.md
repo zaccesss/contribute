@@ -1,5 +1,8 @@
 # Contributing
 
+[![Markdown Lint](https://github.com/zaccesss/contribute/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/contribute/actions/workflows/markdownlint.yml)
+[![Licence: PolyForm Noncommercial](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-green.svg)](LICENSE)
+
 Thank you for taking the time to look at this. Whether you are reporting a bug, suggesting an idea or just passing through, I appreciate it.
 
 This is my shared contributing guide, kept in one place so I am not repeating myself across repositories. My work spans software, hardware, a mix of the two, writing, courses and [my website](https://isaacadjei.me). Most are personal projects I build for myself and am not actively taking contributions on; a few are more public and genuinely welcome them. This guide is the common ground for all of them. Where a repository works differently, it says so in its own notes; those take precedence over anything here.
